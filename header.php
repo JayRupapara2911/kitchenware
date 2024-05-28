@@ -33,7 +33,7 @@
 		<div class="container">
 			<ul class="contactinfo nav nav-pills">
 				<li>
-					<i class='fa fa-phone'></i> +91 98244 80031
+					<i class='fa fa-phone'></i> +91 99989 35025
 				</li>
 				<li>
 					<i class="fa fa-envelope"></i> pitrukrupakichanwer2512@gmail.com
